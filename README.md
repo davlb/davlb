@@ -8,14 +8,14 @@
 
 ---
 
-## 🖤 About Me
+##  About Me
 - 🎯 Specialized in **Information Technology** and **Software Development**
 - 🧠 Passionate about solving complex problems with simple, elegant code
 - 📈 Constantly learning and pushing creative boundaries
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.instagram.com/d.avlb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white">
@@ -55,16 +55,6 @@
 <p align="center">
   <a href="https://paypal.me/@DIIEGOTL" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-1a1a1a?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-</p>
-
----
-
-
-## 💰 Support Me
-<p>
-  <a href="https://paypal.me/@DIIEGOTL" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-0D1117?style=for-the-badge&logo=paypal&logoColor=00457C">
   </a>
 </p>
 
